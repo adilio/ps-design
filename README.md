@@ -40,6 +40,6 @@ I was inspired and encouraged by so many in the PowerShell Community, who share 
 
 That said, I'd like to shout out a few peeps for their die-hard support:
 
-[thomasrayner](https://github.com/thomasrayner) , [markekraus](https://github.com/markekraus) , [steviecoaster](https://github.com/steviecoaster) , [potatoqualitee](https://github.com/potatoqualitee) , [corbob](https://github.com/corbob) , [kevinblumenfeld](https://github.com/kevinblumenfeld) , [scrthq](https://github.com/scrthq) , [brettmillerb](https://github.com/brettmillerb) , [ChrisLGardner](https://github.com/ChrisLGardner) , [IISResetMe](https://github.com/IISResetMe) , [SadProcessor](https://github.com/SadProcessor) , [jaapbrasser](https://github.com/jaapbrasser)
+[thomasrayner](https://github.com/thomasrayner) , [markekraus](https://github.com/markekraus) , [steviecoaster](https://github.com/steviecoaster) , [potatoqualitee](https://github.com/potatoqualitee) , [corbob](https://github.com/corbob) , [TylerLeonhardt](https://github.com/TylerLeonhardt) , [kevinblumenfeld](https://github.com/kevinblumenfeld) , [romero126](https://github.com/romero126) , [scrthq](https://github.com/scrthq) , [brettmillerb](https://github.com/brettmillerb) , [ChrisLGardner](https://github.com/ChrisLGardner) , [IISResetMe](https://github.com/IISResetMe) , [SadProcessor](https://github.com/SadProcessor) , [jaapbrasser](https://github.com/jaapbrasser)
 
 :heart::heart::heart::heart:
