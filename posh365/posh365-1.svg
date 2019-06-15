@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3000"
-   height="1000"
-   viewBox="0.497 0.501 238.7976 79.592965"
+   width="3585.7422"
+   height="843.60004"
+   viewBox="0.497 0.501 285.42221 67.144629"
    version="1.1"
    id="svg6"
-   sodipodi:docname="posh365.svg"
+   sodipodi:docname="posh365-1.svg"
    inkscape:export-filename="C:\Users\adilio\Desktop\posh365-1.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -93,7 +93,8 @@
        x1="95.266701"
        y1="91.9263"
        x2="26.700001"
-       y2="30.68">
+       y2="30.68"
+       gradientTransform="matrix(1.254937,0,0,1.254937,-218.1509,-29.401147)">
       <stop
          offset="0"
          style="stop-color:#A9C8FF"
@@ -102,6 +103,34 @@
          offset="1"
          style="stop-color:#C7E6FF"
          id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_2_-9"
+       gradientUnits="userSpaceOnUse"
+       x1="26.5854"
+       y1="30.7778"
+       x2="93.585403"
+       y2="90.277802">
+      <stop
+         offset="0"
+         style="stop-color:#2D4664"
+         id="stop15" />
+      <stop
+         offset="0.1689"
+         style="stop-color:#29405B"
+         id="stop17" />
+      <stop
+         offset="0.4445"
+         style="stop-color:#1E2F43"
+         id="stop19" />
+      <stop
+         offset="0.7902"
+         style="stop-color:#0C131B"
+         id="stop21" />
+      <stop
+         offset="1"
+         style="stop-color:#000000"
+         id="stop23" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -132,7 +161,7 @@
      xml:space="preserve"
      id="flowRoot1339"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-     transform="matrix(0.0795992,0,0,0.0795992,14.157858,-49.100727)"><flowRegion
+     transform="matrix(0.0795992,0,0,0.0795992,67.263382,-53.251623)"><flowRegion
        id="flowRegion1341"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.33332825px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
          id="rect1343"
@@ -145,7 +174,7 @@
      xml:space="preserve"
      id="flowRoot1349"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:205.5433197px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0f1721;fill-opacity:1;stroke:none"
-     transform="matrix(0.28399242,0,0,0.28399242,-728.60908,-500.37619)"><flowRegion
+     transform="matrix(0.28399242,0,0,0.28399242,-675.50356,-504.52709)"><flowRegion
        id="flowRegion1351"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:205.5433197px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0f1721;fill-opacity:1"><rect
          id="rect1353"
@@ -158,88 +187,18 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:205.5433197px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0f1721;fill-opacity:1"><flowSpan
    style="font-weight:bold"
    id="flowSpan1369">posh</flowSpan>365</flowPara></flowRoot>  <g
-     id="g869"
-     transform="matrix(0.0795992,0,0,0.0795992,-165.24826,-37.108816)">
-    <g
-       id="g4">
-      <line
-         style="fill:none"
-         id="line2"
-         y2="0"
-         x2="0"
-         y1="128"
-         x1="0" />
-    </g>
-    <line
-       style="clip-rule:evenodd;opacity:0;fill:#00ff18;fill-rule:evenodd"
-       id="line6"
-       y2="0"
-       x2="0"
-       y1="128"
-       x1="0" />
+     id="g932"
+     style="fill:#0f1721;fill-opacity:1"
+     transform="matrix(0.68999686,0,0,0.68999686,12.080123,12.725777)">
     <path
-       style="clip-rule:evenodd;opacity:0.8;fill:url(#SVGID_1_-2);fill-rule:evenodd"
-       inkscape:connector-curvature="0"
-       id="path13"
-       d="M 9.033,109 C 7.4,109 5.987,108.362 5.055,107.202 4.103,106.017 3.776,104.388 4.159,102.732 L 22.145,24.821 C 22.899,21.557 26.062,19 29.349,19 h 89.623 c 1.634,0 3.047,0.638 3.978,1.798 0.952,1.184 1.279,2.814 0.896,4.47 l -17.986,77.911 c -0.753,3.264 -3.917,5.822 -7.203,5.822 H 9.033 Z" />
-    <g
-       id="g30">
-      <g
-         id="g28">
-        <linearGradient
-           y2="90.277802"
-           x2="93.585403"
-           y1="30.7778"
-           x1="26.5854"
-           gradientUnits="userSpaceOnUse"
-           id="linearGradient902">
-          <stop
-             id="stop892"
-             style="stop-color:#2D4664"
-             offset="0" />
-          <stop
-             id="stop894"
-             style="stop-color:#29405B"
-             offset="0.1689" />
-          <stop
-             id="stop896"
-             style="stop-color:#1E2F43"
-             offset="0.4445" />
-          <stop
-             id="stop898"
-             style="stop-color:#0C131B"
-             offset="0.7902" />
-          <stop
-             id="stop900"
-             style="stop-color:#000000"
-             offset="1" />
-        </linearGradient>
-        <path
-           style="clip-rule:evenodd;fill:url(#SVGID_2_);fill-rule:evenodd"
-           inkscape:connector-curvature="0"
-           id="path26"
-           d="M 118.5,20 H 29.634 c -2.769,0 -5.53,2.259 -6.168,5.045 L 5.632,102.955 C 4.995,105.742 6.722,108 9.491,108 h 88.865 c 2.769,0 5.53,-2.258 6.168,-5.045 L 122.358,25.044 C 122.996,22.259 121.268,20 118.5,20 Z" />
-      </g>
-    </g>
-    <path
-       style="clip-rule:evenodd;fill:#2c5591;fill-rule:evenodd"
-       inkscape:connector-curvature="0"
-       id="path32"
-       d="m 64.165,87.558 h 21.613 c 2.513,0 4.55,2.125 4.55,4.746 0,2.621 -2.037,4.747 -4.55,4.747 H 64.165 c -2.513,0 -4.55,-2.125 -4.55,-4.747 0,-2.621 2.037,-4.746 4.55,-4.746 z" />
-    <path
-       style="clip-rule:evenodd;fill:#2c5591;fill-rule:evenodd"
-       inkscape:connector-curvature="0"
-       id="path34"
-       d="m 78.184,66.455 c -0.372,0.749 -1.144,1.575 -2.509,2.534 L 35.562,97.798 c -2.19,1.591 -5.334,1.001 -7.021,-1.319 -1.687,-2.32 -1.28,-5.49 0.91,-7.082 L 65.624,63.203 V 62.665 L 42.896,38.487 c -1.854,-1.972 -1.661,-5.161 0.431,-7.124 2.092,-1.962 5.29,-1.954 7.144,0.018 l 27.271,29.012 c 1.548,1.647 1.663,4.141 0.442,6.062 z" />
-    <path
-       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+       style="clip-rule:evenodd;fill:#0f1721;fill-opacity:1;fill-rule:evenodd;stroke-width:1.25493705"
        inkscape:connector-curvature="0"
        id="path36"
-       d="m 77.184,65.455 c -0.372,0.749 -1.144,1.575 -2.509,2.534 L 34.562,96.798 c -2.19,1.591 -5.334,1.001 -7.021,-1.319 -1.687,-2.32 -1.28,-5.49 0.91,-7.082 L 64.624,62.203 V 61.665 L 41.896,37.487 c -1.854,-1.972 -1.661,-5.161 0.431,-7.124 2.092,-1.962 5.29,-1.954 7.144,0.018 l 27.271,29.012 c 1.548,1.647 1.663,4.141 0.442,6.062 z" />
+       d="m 51.43202,32.770884 c -0.46684,0.939948 -1.43565,1.976526 -3.14864,3.180011 l -50.33929,36.15348 c -2.74831,1.996604 -6.69383,1.256192 -8.81091,-1.655262 -2.11708,-2.911454 -1.60632,-6.889604 1.14199,-8.887464 L 35.67001,28.689829 V 28.014673 L 7.1478,-2.327194 c -2.32665,-2.474735 -2.08445,-6.47673 0.54088,-8.940171 2.62533,-2.462186 6.63862,-2.452147 8.96527,0.02259 l 34.22339,36.408232 c 1.94264,2.066881 2.08696,5.196694 0.55468,7.607427 z" />
     <path
-       style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+       style="clip-rule:evenodd;fill:#0f1721;fill-opacity:1;fill-rule:evenodd;stroke-width:1.25493705"
        inkscape:connector-curvature="0"
        id="path38"
-       d="m 63.55,87 h 21.613 c 2.513,0 4.55,2.015 4.55,4.5 0,2.485 -2.037,4.5 -4.55,4.5 H 63.55 C 61.037,96 59,93.985 59,91.5 59,89.015 61.037,87 63.55,87 Z" />
+       d="m 34.32221,59.808502 h 27.12295 c 3.15366,0 5.70996,2.528698 5.70996,5.647217 0,3.118518 -2.5563,5.647216 -5.70996,5.647216 H 34.32221 c -3.15366,0 -5.70997,-2.528698 -5.70997,-5.647216 0,-3.118519 2.55631,-5.647217 5.70997,-5.647217 z" />
   </g>
 </svg>
