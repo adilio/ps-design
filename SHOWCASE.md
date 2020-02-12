@@ -1,7 +1,7 @@
 # Sticker Showcase
 
 | Sticker Name | Sticker sample |
-| ============ | ============== |
+| ------------ | -------------- |
 |back-to-the-shell|<a href="back-to-the-shell"><img src="back-to-the-shell\back-to-the-shell-final.png" width="25%"></a>|
 |bridge-for-life|<a href="bridge-for-life"><img src="bridge-for-life\bridge-for-life-final.png" width="25%"></a>|
 |dev-ooops|<a href="dev-ooops"><img src="dev-ooops\dev-ooops-final.png" width="25%"></a>|
